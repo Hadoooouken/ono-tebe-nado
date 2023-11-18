@@ -5,6 +5,8 @@
     align-items: center;
     font-weight: 400;
     font-size: 18px;
+    text-underline-offset: 5px;
+    
     
 
 }
@@ -16,6 +18,7 @@
 .header__menu ul {
     list-style-type:circle;
     display:inline-flex ;
+    
 }
 
 .header__links-list-item_no-bullit a {
@@ -45,6 +48,7 @@ li.header__links-list-item_no-bullit {
     padding-left: 50px;
     padding-right: 50px;
 }
+
 
 
 
