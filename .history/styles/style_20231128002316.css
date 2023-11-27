@@ -18,6 +18,7 @@
   display: flex;
   gap: 32px;
   list-style-type: circle;
+  display: inline-flex;
 }
 
 .header__links-list-item_no-bullit a {
