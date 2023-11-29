@@ -293,9 +293,8 @@ li.header__links-list-item_no-bullit {
 
 .footer {
   padding-top: 180px;
-  display: flex;
+  display: grid;
   justify-content: space-between;
-  padding-bottom: 124px;
 }
 
 
@@ -326,5 +325,5 @@ li.header__links-list-item_no-bullit {
 .footer__social-list-item {
   list-style-type: none;
   width: 48px;
-  height: 48px;
+  height: 48px;-------------------
 }

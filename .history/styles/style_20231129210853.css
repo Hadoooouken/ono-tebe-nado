@@ -36,9 +36,8 @@ li.header__links-list-item_no-bullit {
   list-style-type: none;
 }
 
-.header__logo a {
+.header__logo  {
   width: 138px;
-  display: block;
 }
 
 .section {
@@ -295,7 +294,6 @@ li.header__links-list-item_no-bullit {
   padding-top: 180px;
   display: flex;
   justify-content: space-between;
-  padding-bottom: 124px;
 }
 
 
@@ -326,5 +324,5 @@ li.header__links-list-item_no-bullit {
 .footer__social-list-item {
   list-style-type: none;
   width: 48px;
-  height: 48px;
+  height: 48px;-------------------
 }

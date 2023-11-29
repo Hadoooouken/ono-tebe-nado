@@ -36,9 +36,8 @@ li.header__links-list-item_no-bullit {
   list-style-type: none;
 }
 
-.header__logo a {
+.header__logo {
   width: 138px;
-  display: block;
 }
 
 .section {
@@ -268,8 +267,9 @@ li.header__links-list-item_no-bullit {
   margin-bottom: 100px;
 }
 
-.about__text {
+.about__text{
   color: #000;
+  font-family: Raleway;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -277,9 +277,8 @@ li.header__links-list-item_no-bullit {
   margin-bottom: 25px;
 }
 
-.about__text:last-child{
+.last-child{
   margin-bottom: 0px;
-
 }
 .about__left-column {
   padding-left: 95px;
@@ -292,10 +291,9 @@ li.header__links-list-item_no-bullit {
 }
 
 .footer {
-  padding-top: 180px;
+  padding-top: 160px;
   display: flex;
   justify-content: space-between;
-  padding-bottom: 124px;
 }
 
 
@@ -326,5 +324,5 @@ li.header__links-list-item_no-bullit {
 .footer__social-list-item {
   list-style-type: none;
   width: 48px;
-  height: 48px;
+  height: 48px;-------------------
 }
