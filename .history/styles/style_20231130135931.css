@@ -19,10 +19,7 @@
   width: 240px;
 }
 
-.address__colmn{
-  display: flex;
-  justify-content: end;
-}
+.header__address
 
 
 .header__menu ul {
@@ -146,7 +143,7 @@ li.header__links-list-item_no-bullit {
   background-color: transparent;
   border: 1px solid #fff;
   color: #fff;
-  font-family: Raleway, sans-serif;
+  font-family: Raleway;
   font-size: 22px;
   font-style: normal;
   font-weight: 400;

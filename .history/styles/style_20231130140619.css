@@ -19,9 +19,8 @@
   width: 240px;
 }
 
-.address__colmn{
+.header__address{
   display: flex;
-  justify-content: end;
 }
 
 
@@ -146,7 +145,7 @@ li.header__links-list-item_no-bullit {
   background-color: transparent;
   border: 1px solid #fff;
   color: #fff;
-  font-family: Raleway, sans-serif;
+  font-family: Raleway;
   font-size: 22px;
   font-style: normal;
   font-weight: 400;
