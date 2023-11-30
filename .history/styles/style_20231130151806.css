@@ -178,7 +178,8 @@ li.header__links-list-item_no-bullit {
 }
 .lots__card-list {
   display: flex;
-  flex-wrap: wrap;
+  flex-grow: 1;
+  flex-basis: 0;
   padding-top: 27px;
   list-style-type: none;
   gap: 25px;
@@ -186,10 +187,9 @@ li.header__links-list-item_no-bullit {
 }
 .lots__card-list-item {
   display: flex;
-  flex-grow: 1;
-  flex-basis: 0;
+  
+  flex-wrap: wrap;
   min-height: 450px;
-  min-width: 430px;
   background-size: cover;
   padding: 50px 40px;
   position: relative;
