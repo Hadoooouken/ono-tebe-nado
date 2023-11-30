@@ -19,10 +19,11 @@
   width: 240px;
 }
 
-.address__column {
+.address__column{
   display: flex;
   justify-content: end;
 }
+
 
 .header__menu ul {
   display: flex;
@@ -175,6 +176,7 @@ li.header__links-list-item_no-bullit {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  
 }
 .lots__card-list {
   display: flex;
@@ -299,6 +301,7 @@ li.header__links-list-item_no-bullit {
   text-align: center;
   text-underline-offset: 4px;
 }
+
 
 .footer__menu-list-item {
   list-style-type: none;
